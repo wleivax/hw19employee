@@ -14,7 +14,6 @@ class SearchResultContainer extends Component {
     sortField: ""
   };
 
-  // When this component mounts, search the Giphy API for pictures of kittens
   // onsafe_componentWillMount()
   componentDidMount() {
     API.search()
