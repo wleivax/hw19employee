@@ -1,4 +1,4 @@
-# hw19employee
+# Employee Directory
 
 # Github Repo
 https://github.com/wleivax/hw19employee
